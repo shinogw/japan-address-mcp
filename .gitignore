@@ -3,3 +3,7 @@ dist/
 data/ken_all.csv
 *.tsbuildinfo
 .env
+data/ken_all.zip
+data/KEN_ALL.CSV
+data/ken_all.json
+data/*_utf8.csv
