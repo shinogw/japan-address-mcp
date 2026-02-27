@@ -44,8 +44,10 @@
   "homepage": "https://github.com/shinogw/japan-address-mcp#readme",
   "files": [
     "dist",
+    "data",
     "scripts/download-postal-data.ts",
     "scripts/postinstall.js",
+    "smithery.yaml",
     "README.md",
     "LICENSE"
   ],
